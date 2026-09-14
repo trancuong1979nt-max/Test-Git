@@ -1,7 +1,1 @@
-Trưởng nhóm: Trần Tiến Phát
-
-Thành viên ghi tên theo thứ tự ở bên dưới (đã thêm):
-
-
-Đây là nhánh 1 (Đã merge)
-Bla Bla lbalbal dlfafkkdfjajgpgdsgpd
+Dong 1: Chào bạn, đây là code goc.
